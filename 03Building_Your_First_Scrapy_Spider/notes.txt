@@ -1,0 +1,5 @@
+scrapy genspider bookspider book.toscrape.com
+$ pip install ipython
+scrapy shell
+to exit shell type exit
+to run spider use scrapy crawl spidername
