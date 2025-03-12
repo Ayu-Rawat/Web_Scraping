@@ -1,0 +1,4 @@
+to save data to another file 
+use 
+scrapy crawl bookspider -O bookdata.csv
+scrapy crawl bookspider -O bookdata.json
