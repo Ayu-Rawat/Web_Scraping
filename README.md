@@ -38,4 +38,4 @@ Running the following may solve some of these issues:
 `pip install --upgrade pip`
 
 The following error: `NotADirectoryError: [Errno 20] Not a directory: 'pkg-config'` might be solvable by running:
-`export PKG_CONFIG=/path/to/pkg-config`
+`export PKG_CONFIG=/path/to/pkg-config`# Scraper
