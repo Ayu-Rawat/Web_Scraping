@@ -4,8 +4,8 @@ import random
 
 class BookspiderSpider(scrapy.Spider):
     name = 'bookspider'
-    allowed_domains = ['collegepravesh.com']
-    start_urls = ['https://www.collegepravesh.com/cutoff/nsut-delhi-cutoff-2024/']
+    allowed_domains = ['books.toscrape.com']
+    start_urls = ['https://books.toscrape.com/']
 
     custom_settings = {
         'FEEDS': {
